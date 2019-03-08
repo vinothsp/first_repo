@@ -2,4 +2,4 @@
 Just for learn
 
 
-Im doing somrthing.
+Im doing something.
